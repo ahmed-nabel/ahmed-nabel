@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ahmed Nabel
+### Hi there 👋, Ahmed Nabel
 #### Frontend Web Developer
 ![Frontend Web Developer](https://pbs.twimg.com/profile_banners/1719272655705014272/1698741600/600x200)
 
