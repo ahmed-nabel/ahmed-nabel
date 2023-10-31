@@ -1,6 +1,6 @@
 ### Hi there 👋, Ahmed Nabel
 #### Frontend Web Developer
-![Frontend Web Developer](https://pbs.twimg.com/profile_banners/1719272655705014272/1698741600/600x200)
+![Frontend Web Developer](https://github.com/ahmed-nabel/ahmed-nabel/blob/main/github_background.png)
 
 I'm Ahmed from Egypt, A Frontend Web Developer. I really enjoy learning languages and frameworks. You can check out my @Linkedin at https://www.linkedin.com/in/ahmed-nabel-027717241/.
 
