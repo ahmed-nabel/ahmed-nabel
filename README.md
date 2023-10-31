@@ -4,7 +4,8 @@
 
 I'm Ahmed from Egypt, A Frontend Web Developer. I really enjoy learning languages and frameworks. You can check out my @Linkedin at https://www.linkedin.com/in/ahmed-nabel-027717241/.
 
-Skills: JS / HTML / CSS
+## Skills
+:computer: HTML | CSS | JS
 
 - 🔭 I’m currently working on My own company 
 - 🌱 I’m currently learning React 
